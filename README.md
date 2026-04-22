@@ -12,7 +12,7 @@ Data Visualization
 ## Insights
 Household expenses are 37% of the total expenses,
 "Stuffs" were the most spent on |
-Deficit on savings is computed |
+Savings of 5,48,293 is computed |
 "Salary" is major source of income, "Other" is second most source |
 December month had highest expenditure |
 
