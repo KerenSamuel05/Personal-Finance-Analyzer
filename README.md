@@ -5,9 +5,9 @@ A small project using data in excel to analyze finance.
 To analyze income and expenses using excel to generate financial insights.
 
 ## Tools Used
-MS Excel
-Pivot Charts
-Data Visualization
+MS Excel |
+Pivot Charts |
+Data Visualization |
 
 ## Insights
 Household expenses are 37% of the total expenses,
