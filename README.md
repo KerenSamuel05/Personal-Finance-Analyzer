@@ -10,10 +10,11 @@ Pivot Charts
 Data Visualization
 
 ## Insights
-Household expenses are 37% of the total expenses, "Stuffs" were the most spent on
-Deficit on savings is computed
-"Salary" is major source of income, "Other" is second most source
-December month had highest expenditure
+Household expenses are 37% of the total expenses | 
+"Stuffs" were the most spent on |
+Deficit on savings is computed |
+"Salary" is major source of income, "Other" is second most source |
+December month had highest expenditure |
 
 ## Conclusion
 This project shows basic financial data analysis skills
